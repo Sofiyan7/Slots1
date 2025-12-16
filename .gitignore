@@ -1,0 +1,4 @@
+node_modules/
+slots.db
+.env
+.vercel
